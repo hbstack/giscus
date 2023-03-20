@@ -6,5 +6,3 @@
 [![License](https://img.shields.io/github/license/hbstack/giscus?style=flat-square)](https://github.com/hbstack/giscus/blob/main/LICENSE)
 [![Version](https://img.shields.io/badge/dynamic/json?color=blue&label=version&query=name&url=https://api.razonyang.com/v1/github/tag/hbstack/giscus&style=flat-square)](https://github.com/hbstack/giscus/tags)
 [![Lint](https://github.com/hbstack/giscus/actions/workflows/lint.yml/badge.svg?style=flat-square)](https://github.com/hbstack/giscus/actions/workflows/lint.yml)
-
-HB is a Hugo theme framework that built on top of [Hugo](https://gohugo.io) and [Bootstrap v5.3.0+](https://getbootstrap.com).
