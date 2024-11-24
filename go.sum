@@ -34,6 +34,7 @@ github.com/hbstack/hb v0.14.0/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5
 github.com/hbstack/hb v0.15.1/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
 github.com/hbstack/hb v0.15.3/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
 github.com/hbstack/hb v0.15.4/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
+github.com/hbstack/hb v0.16.0/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
 github.com/hugomods/giscus v0.1.0 h1:tIu1TzYByC/XlxxiBl9+CkQp9OeR4UhoZjbQSlcDt5E=
 github.com/hugomods/giscus v0.1.0/go.mod h1:tCRkqNi/sMsLh3kjDesXZNzf4R/w+b5oc5boS/l8Jtw=
 github.com/hugomods/giscus v0.1.1/go.mod h1:tCRkqNi/sMsLh3kjDesXZNzf4R/w+b5oc5boS/l8Jtw=
