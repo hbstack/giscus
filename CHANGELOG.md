@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.1.2](https://github.com/hbstack/giscus/compare/v0.1.1...v0.1.2) (2024-12-16)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v5.3.0 ([d132e5b](https://github.com/hbstack/giscus/commit/d132e5b7af315eec22cc1d7d9d5361c1883d5160))
+* **deps:** update dependency stylelint-scss to v5.3.1 ([fdd2364](https://github.com/hbstack/giscus/commit/fdd2364f394a078bc842f9fbe35c80a36a901e0b))
+* **deps:** update dependency stylelint-scss to v6 ([4499c47](https://github.com/hbstack/giscus/commit/4499c472fdae94f61281f7cdb3fac17f3e5166ae))
+* **deps:** update dependency stylelint-scss to v6.1.0 ([7bc115d](https://github.com/hbstack/giscus/commit/7bc115d9959c58b1cc9c2b42f332e9e6863fa291))
+* **deps:** update dependency stylelint-scss to v6.10.0 ([b276d92](https://github.com/hbstack/giscus/commit/b276d92a92e2619fc0f6a2ed46ade82b22b00347))
+* **deps:** update dependency stylelint-scss to v6.2.0 ([a921eea](https://github.com/hbstack/giscus/commit/a921eea03421dc7e8bcf8ac71f9acd5646314129))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([cd3dd1e](https://github.com/hbstack/giscus/commit/cd3dd1ec298ecb8972ccae94463367854ee42da2))
+* **deps:** update dependency stylelint-scss to v6.4.1 ([96e2db6](https://github.com/hbstack/giscus/commit/96e2db674ae676cc7c21f8f8d61a1c353a49fd43))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([53aad37](https://github.com/hbstack/giscus/commit/53aad373917bd48b2edb6f60c666f02f003697f7))
+* **deps:** update dependency stylelint-scss to v6.5.1 ([ff8eaa1](https://github.com/hbstack/giscus/commit/ff8eaa17aa7dfbc53b2872ad854dedba7d358ce8))
+* **deps:** update dependency stylelint-scss to v6.6.0 ([40b95d3](https://github.com/hbstack/giscus/commit/40b95d35b29c0b98048ab8e26ab82182265f8678))
+* **deps:** update dependency stylelint-scss to v6.7.0 ([17fea4d](https://github.com/hbstack/giscus/commit/17fea4df83fbbcc40dacd8cf376c09cb30071df6))
+* **deps:** update dependency stylelint-scss to v6.8.0 ([13ae3b2](https://github.com/hbstack/giscus/commit/13ae3b2a0282e66022124470f919cff38f3f70c5))
+* **deps:** update dependency stylelint-scss to v6.8.1 ([946de48](https://github.com/hbstack/giscus/commit/946de4891af13cc4f77ed37dd778e38b9a9701bf))
+* **deps:** update dependency stylelint-scss to v6.9.0 ([72e0569](https://github.com/hbstack/giscus/commit/72e05696e6f3674498519527738a1af34efcac0b))
+
 ## [0.1.1](https://github.com/hbstack/giscus/compare/v0.1.0...v0.1.1) (2023-10-01)
 
 
